@@ -37,7 +37,7 @@ Link ảnh GIF demo ứng dụng:
 
 https://github.com/HieuHD1212121/1212121-1312348/blob/Edit/demo.gif?raw=true
 
-## Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
+Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## License
