@@ -4,7 +4,7 @@ Thành viên:
 Hồ Đức Hiếu - 1212121
 Lư Hán Luân - 1312348
 
-URL: **URL hosting của bài tập**
+URL: http://hieuhd1212121.github.io
 
 ## Yêu cầu
 
@@ -37,7 +37,7 @@ Link ảnh GIF demo ứng dụng:
 
 https://github.com/HieuHD1212121/1212121-1312348/blob/Edit/demo.gif?raw=true
 
-Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
+## Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## License
