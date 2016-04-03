@@ -13,7 +13,7 @@ Yêu cầu **GIT**:
 * [x] Có sử dụng GIT.
 * [x] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
-* [x] Sử dụng GIT theo Feature Branch Workflow.
+* [ ] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 * [x] Thiết kế theo table.
@@ -28,7 +28,7 @@ Yêu cầu **GIT**:
     * [x] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
-Liệt kê các **yêu cầu nâng cao** đã thực hiện:
+Liệt kê các **yêu cầu nâng cao** đã thực hiện: Chưa có
 
 
 ## Demo
